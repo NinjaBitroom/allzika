@@ -1,0 +1,6 @@
+discord.py[voice] == 1.7.3
+pillow
+PyNaCl
+psycopg2-binary
+wikipedia
+youtube-dl

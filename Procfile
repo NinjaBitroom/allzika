@@ -1,0 +1,1 @@
+allzika: python "main.py"
